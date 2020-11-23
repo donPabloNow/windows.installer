@@ -1,2 +1,2 @@
-# windows.installer
+# Windows Installer
 Windows 10 package manager installer
